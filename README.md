@@ -4,6 +4,18 @@
 This project analyzes **pharmacy sales performance, profitability, and promotional effectiveness** across products, pharmacies, geography, and time.  
 The objective is to uncover **what is truly driving growth, margin, and operational efficiency** — and where performance is being diluted.
 
+---
+
+## 📌 Executive Summary
+
+This analysis evaluates two years of pharmacy sales data (2024–2025) to assess revenue growth, profitability, and promotional effectiveness across products, pharmacies, and regions.
+
+Pareto analysis shows that while top pharmacies are strong performers, revenue is not overly concentrated in a small subset of locations, indicating a relatively balanced revenue distribution. Revenue and margin trends remain closely aligned month over month, suggesting consistent pricing discipline and stable cost management as sales scale.
+
+Promotions appear under-optimized, as discounting does not drive meaningful volume uplift or profitability improvements, limiting their impact on overall performance.
+
+---
+
 ![Dashboard Preview](pharmacy_dashboard.png)
 
 🔗 **Interactive Tableau Dashboard:**  
