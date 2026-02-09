@@ -83,8 +83,14 @@ The dataset consists of transactional pharmacy sales joined to product, pharmacy
 
 ## 🧾 SQL Queries
 
-📂 **SQL Queries:**  
-Queries are organized to reflect a structured analytical workflow from data preparation to insight generation.
+🧠 **SQL Techniques Used**
+
+- Common Table Expressions (CTEs)
+- Window functions (`LAG`, `NTILE`)
+- Conditional aggregation
+- Time-based calculations
+- Multi-table joins
+- Promo vs non-promo segmentation
 
 * [`0_snake_case.sql`](./sql/0_snake_case.sql)  
   Column standardization and naming consistency.  
@@ -133,17 +139,6 @@ Queries are organized to reflect a structured analytical workflow from data prep
 - What share of revenue comes from promotions?
 - Do promotions materially increase unit volume?
 - What is the margin tradeoff of discounting?
-
----
-
-## 🧠 SQL Techniques Used
-
-- Common Table Expressions (CTEs)
-- Window functions (`LAG`, `NTILE`)
-- Conditional aggregation
-- Time-based calculations
-- Multi-table joins
-- Promo vs non-promo segmentation
 
 ---
 
