@@ -7,7 +7,7 @@ The goal is to identify growth trends, margin drivers, revenue concentration, an
 ![Dashboard Preview](pharmacy_dashboard.png)
 
 🔗 **Interactive Tableau Dashboard:**  
-[https://public.tableau.com/app/profile/dmitry.kuvyrdin](https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/PharmacySalesandProfitability/DBMain)
+[https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/PharmacySalesandProfitability/DBMain](https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/PharmacySalesandProfitability/DBMain)
 
 ---
 
