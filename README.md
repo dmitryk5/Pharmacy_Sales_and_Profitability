@@ -146,6 +146,7 @@ The Tableau dashboard converts SQL outputs into **interactive, executive-ready i
   - Promo Revenue Share
   - MoM Growth %
 - Monthly Revenue & Margin trend (dual axis)
+- Sum Revenue Promo & Not-Promo
 - Seasonality heatmap (Month × Year)
 
 ### Page 2: Product Performance
