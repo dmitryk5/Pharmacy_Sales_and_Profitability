@@ -11,6 +11,37 @@ The goal is to identify growth trends, margin drivers, revenue concentration, an
 
 ---
 
+## 🧾 SQL Queries
+
+📂 **SQL Queries:**  
+All SQL queries are organized to reflect the analytical workflow, from raw data preparation through time-based analysis, product performance, geographic insights, and promotion effectiveness.
+
+* [`0_snake_case.sql`](./sql/0_snake_case.sql)  
+  Column standardization and naming consistency.  
+  Converts raw column names into snake_case to ensure SQL readability, consistency across queries, and smoother Tableau integration.
+
+* [`1_explore.sql`](./sql/1_explore.sql)  
+  Initial data exploration and validation.  
+  Examines row counts, date ranges, revenue totals, missing values, and high-level distributions to validate data integrity before deeper analysis.
+
+* [`2_time.sql`](./sql/2_time.sql)  
+  Time-based performance analysis.  
+  Analyzes revenue, margin, units sold, and month-over-month (MoM) growth trends. Supports seasonality analysis and executive KPI development.
+
+* [`3_product_performance.sql`](./sql/3_product_performance.sql)  
+  Product and category performance analysis.  
+  Identifies top- and bottom-performing products, revenue concentration, category-level margins, and branded vs. generic performance dynamics.
+
+* [`4_geographic.sql`](./sql/4_geographic.sql)  
+  Pharmacy and geographic performance analysis.  
+  Evaluates revenue and margin by pharmacy, compares top vs. bottom performers, and supports geographic visualization and scale vs. efficiency insights.
+
+* [`5_promos.sql`](./sql/5_promos.sql)  
+  Promotion effectiveness analysis.  
+  Measures promo revenue share, margin impact of discounting, and promo dependency across products, categories, and pharmacies.
+
+---
+
 ## 📌 Project Overview
 
 This analysis evaluates **two years of pharmacy transaction data (2024–2025)** to understand how revenue, margin, and units sold evolve over time and across different business dimensions.
