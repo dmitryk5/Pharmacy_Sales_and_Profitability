@@ -8,11 +8,15 @@ The objective is to uncover **what is truly driving growth, margin, and operatio
 
 ## 📌 Executive Summary
 
-This analysis evaluates two years of pharmacy sales data (2024–2025) to assess revenue growth, profitability, and promotional effectiveness across products, pharmacies, and regions.
+This analysis reviews pharmacy sales performance from 2024–2025 to assess growth, profitability, and promotional effectiveness across products, pharmacies, and regions.
 
-Pareto analysis shows that while top pharmacies are strong performers, revenue is not overly concentrated in a small subset of locations, indicating a relatively balanced revenue distribution. Revenue and margin trends remain closely aligned month over month, suggesting consistent pricing discipline and stable cost management as sales scale.
+Revenue and margin grow steadily over the two-year period, remaining closely aligned month over month, which indicates stable pricing discipline and sustainable growth. Clear seasonality is present, with peak performance between May and October and the strongest MoM growth occurring in late spring and summer.
 
-Promotions appear under-optimized, as discounting does not drive meaningful volume uplift or profitability improvements, limiting their impact on overall performance.
+Revenue is not overly concentrated in a small number of products or pharmacies. While top pharmacies generate higher revenue through scale, margin percentages remain consistent across locations, suggesting performance differences are driven by demand rather than operational efficiency. Branded products similarly drive profit primarily through volume, not higher margins.
+
+Promotions contribute a limited share of total revenue and consistently reduce margin without generating sufficient volume uplift, indicating that current discounting strategies are under-optimized and pose a profitability risk.
+
+Overall, the greatest opportunities lie in scaling high-margin categories, leveraging seasonal demand more effectively, and refining promotion strategies to improve margin outcomes.
 
 ---
 
