@@ -83,15 +83,6 @@ The dataset consists of transactional pharmacy sales joined to product, pharmacy
 
 ## 🧾 SQL Queries
 
-🧠 **SQL Techniques Used**
-
-- Common Table Expressions (CTEs)
-- Window functions (`LAG`, `NTILE`)
-- Conditional aggregation
-- Time-based calculations
-- Multi-table joins
-- Promo vs non-promo segmentation
-
 * [`0_snake_case.sql`](./sql/0_snake_case.sql)  
   Column standardization and naming consistency.  
   Converts raw column names into snake_case to improve SQL readability and Tableau compatibility.
@@ -184,7 +175,7 @@ The Tableau dashboard converts SQL outputs into **interactive, executive-ready i
 - Branded products drive profit primarily through **volume**, not efficiency
 
 ### Pharmacy Insights
-- A small group of pharmacies drives a disproportionate share of revenue
+- Top pharmacies generate higher revenue through scale, margin percentages remain consistent across locations
 - Margin % is consistent across locations
 - Performance differences are driven more by **scale than margin quality**
 
