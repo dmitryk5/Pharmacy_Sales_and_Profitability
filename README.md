@@ -22,7 +22,7 @@ Overall, the greatest opportunities lie in scaling high-margin categories, lever
 
 **Dashboard Preview**
 
-![Dashboard Preview](pharmacy_dashboard.png)
+![Dashboard Preview](pharmacy_dashboard_v2.png)
 
 🔗 **Interactive Tableau Dashboard:**  
 [https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/PharmacySalesandProfitability/DBMain](https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/PharmacySalesandProfitability/DBMain)
