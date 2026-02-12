@@ -166,7 +166,7 @@ The Tableau dashboard converts SQL outputs into **interactive, executive-ready i
 ## 🔍 Key Insights
 
 ### Time Trends
-- Revenue and margin grow steadily across two years
+- Revenue and margin grow steadily across two years -- 2025 revenue is €187,000 more than 2024 (4.4% increase)
 - Clear seasonality with peaks between **May and October**
 - Strongest MoM growth occurs in late spring and summer
 
